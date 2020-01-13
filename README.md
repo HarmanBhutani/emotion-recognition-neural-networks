@@ -1,7 +1,7 @@
 # Emotion recognition with CNN
 
 
-This repository is the out project about mood recognition using convolutional neural network for the course Seminar Neural Networks at TU Delft.
+This repository is the out project about mood recognition using convolutional neural network . If you have any query , you can mail me at byteharman0101@gmail.com
 
 
 
